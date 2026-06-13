@@ -1,0 +1,12 @@
+# Dataset - too large for GitHub
+data/mtcnn_splits/
+data/Indian_Face_Dataset/
+*.zip
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/

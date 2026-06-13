@@ -1,0 +1,12 @@
+tensorflow
+keras-facenet
+mtcnn
+gradio
+opencv-python
+Pillow
+scikit-learn
+numpy
+matplotlib
+seaborn
+tqdm
+lz4
