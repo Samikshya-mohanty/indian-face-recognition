@@ -83,7 +83,12 @@ Prediction / Unknown Rejection
 | Test | 3,651 | 100 |
 | **Total** | **23,716** | **100** |
 
-> **Note:** Raw dataset and processed splits are not included in this repo due to size. Download IMFDB from the official link above. MTCNN processed splits are stored on Google Drive.
+> **Note:** Raw dataset and processed splits are not included in this repo due to size. Download IMFDB from the official link above.
+
+**📥 Download MTCNN-processed splits (ready to use for training):**
+[mtcnn_splits.zip — Google Drive](https://drive.google.com/file/d/1AP6S81gDjilp2Mw2mGhtf5euxE2htktE/view?usp=sharing)
+
+Extract into `data/mtcnn_splits/` before running `02_model_training_demo.ipynb`.
 
 ---
 
